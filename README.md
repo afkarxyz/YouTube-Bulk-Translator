@@ -1,7 +1,8 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/afkarxyz/YouTube-Bulk-Translator/total?style=for-the-badge)](https://github.com/afkarxyz/YouTube-Bulk-Translator/releases)
 
-# YouTube Bulk Translator
-YouTube Bulk Translator is a tool designed to boost your YouTube earnings. Translate your video titles and descriptions into multiple languages to target high-paying markets and expand your global reach.
+## YouTube Bulk Translator
+
+**YouTube Bulk Translator** is a tool designed to boost your YouTube earnings. Translate your video titles and descriptions into multiple languages to target high-paying markets and expand your global reach.
 
 ## Features
 
